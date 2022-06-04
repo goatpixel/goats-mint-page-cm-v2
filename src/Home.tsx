@@ -37,7 +37,7 @@ import { usePoller } from "./hooks/usePoller";
 import confetti from "canvas-confetti";
 require("./Bg.css");
 const IMAGE_LINK = "/animation.gif";
-const LOGO_LINK = "/logo.png";
+const LOGO_LINK = "/logo1.png";
 
 function throwConfetti(): void {
   confetti({
